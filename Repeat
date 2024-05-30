@@ -1,0 +1,12 @@
+class GFG {
+
+    public static void main(String args[])
+
+    {
+
+        String str = "GeeksForGeeks";
+
+        System.out.println(str.repeat(4));
+
+    }
+}
